@@ -5,7 +5,7 @@
 
  ## Description
 
- DATE = date of the game
+ DATE = date of the game\n
  TEAM_ABBREVIATION = home team abreviation
  OPP_TEAM_ABBREVIATION = away team abreviation
  PTS = home team points at the end of the game
