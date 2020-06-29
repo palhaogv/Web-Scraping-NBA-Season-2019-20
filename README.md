@@ -1,5 +1,5 @@
 # Web Scraping NBA Season 2019/20
-<<<<<<< HEAD
+
 ## Purpose
  Get a data from all NBA 2019/20 gamess so far and build a dataset for analyse.
 
@@ -50,6 +50,3 @@
 ## Exemple
 ![](Dataset.PNG)
 
-=======
- Get a dataset from all NBA 2019/20 games so far
->>>>>>> a3c64c5069afc649ab307dc77815b8d0cd267736
