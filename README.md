@@ -1,7 +1,7 @@
 # Web Scraping NBA Season 2019/20
 
 ## Purpose
- Get ata from all NBA 2019/20 gamess so far and build a dataset for analyse.
+ Get ata from all NBA 2019/20 games so far and build a dataset for analyse.
 
  ## Description
 
