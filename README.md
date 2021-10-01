@@ -1,7 +1,7 @@
 # Web Scraping NBA Season 2019/20
 
 ## Purpose
- Get data from all NBA 2019/20 games so far and build a dataset for analyse.
+ Get data from all NBA 2019/20 games so far and build a dataset for analysis.
 
  ## Description
 
